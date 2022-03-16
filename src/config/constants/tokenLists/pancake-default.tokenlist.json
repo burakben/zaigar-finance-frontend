@@ -29,19 +29,19 @@
     {
       "name": "Zaigar Finance",
       "symbol": "ZAIF",
-      "address": "0xfE6D035E592613e24149def287bAb7F3E713F69F",
+      "address": "0x280C3Fc949b1a1D7a470067cA6F7b48b3CB219c5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://relontoken.com/images/bonegS-removebg-preview%20(2).png"
+      "logoURI": "https://zaigar.finance/images/tokens/0x280C3Fc949b1a1D7a470067cA6F7b48b3CB219c5.png"
 
     },
     {
       "name": "Zafira",
       "symbol": "ZFAI",
-      "address": "0xfE6D035E592613e24149def287bAb7F3E713F69F",
+      "address": "0x205cD59eEA8e8c5083f16D20e1050fD4a7d72037",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://relontoken.com/images/bonegS-removebg-preview%20(2).png"
+      "logoURI": "https://zaigar.finance/images/tokens/0x205cD59eEA8e8c5083f16D20e1050fD4a7d72037.png"
 
     },
     {
